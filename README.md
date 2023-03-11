@@ -1,6 +1,6 @@
 #** AirBnB_clone**
 **The BaseModel** class is a parent class for other classes in the HBnB project. It defines common attributes and methods that can be used by other classes to simplify their implementation.
-__The Amenity___ class represents an amenity in the HBnB project. It is a subclass of the BaseModel class and inherits its common attributes and methods.
+__The Amenity__ class represents an amenity in the HBnB project. It is a subclass of the BaseModel class and inherits its common attributes and methods.
 he FileStorage class is an implementation of a simple storage engine that allows for the saving and retrieval of Python objects to and from a JSON file. It has the following attributes and methods:
 
 **Attributes:**
